@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/next-word-prediction.git
+git clone https://github.com/zahramhh99/next-word-prediction.git
 cd next-word-prediction
 ```
 
